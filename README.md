@@ -9,3 +9,7 @@ Text and Sentiment analysis for the uber ride reviews using python and machine l
 **• Deployed the final model using Flask a micro web framework in python.**<br/>
 
 It predicts sentiment of the new text reviews input as “Positive” (1) OR “Negative” (0)
+
+**UBER.csv -->Data that was web scraped **<br/>
+**UBER.py --> Python file modelling and deployement **<br/>
+** **<br/>
