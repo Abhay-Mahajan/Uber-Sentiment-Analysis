@@ -12,4 +12,5 @@ It predicts sentiment of the new text reviews input as “Positive” (1) OR “
 
 **UBER.csv -->Data that was web scraped**<br/>
 **UBER.py --> Python file modelling and deployement**<br/>
+**Index.html --> HTML file used in python file**<br/>
 ** **<br/>
